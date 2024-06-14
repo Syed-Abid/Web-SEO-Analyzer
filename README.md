@@ -1,6 +1,8 @@
 # Web SEO Analyzer
 
-![Web SEO Analyzer](path/to/your/logo.png)
+<div align="center">
+  <img src="https://github.com/Syed-Abid/Web-SEO-Analyzer/blob/main/seo%20image.jpg" alt="SEO Logo">
+</div>
 
 ## Overview
 
