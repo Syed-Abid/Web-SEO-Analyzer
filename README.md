@@ -59,19 +59,17 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
+## Demonstration Video
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+<p align="center">
+  <a href="">
+    <img src="" alt="Demonstration Video">
+  </a>
+</p>
 
 ## Contact
 
 For any questions or feedback, please feel free to contact:
 
-- Your Name: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
-
----
-
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Web-SEO-Analyzer)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/Web-SEO-Analyzer)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/Web-SEO-Analyzer)
+- Your Name: [Syed Abid Hassan](mailto:abidhassanjaffri31@gmail.com)
+- GitHub: [SyedAbid](https://github.com/Syed-Abid)
