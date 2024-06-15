@@ -21,6 +21,9 @@
 - **Content Analysis:** Evaluate the quality and length of content.
 - **Technical SEO Audit:** Check for technical SEO issues like broken links, sitemap presence, robots.txt, etc.
 
+## LinkedIn Post
+
+
 ## Installation
 
 To run the Web SEO Analyzer locally, follow these steps:
