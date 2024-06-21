@@ -10,16 +10,10 @@
 
 ## Features
 
-- **SEO Score Calculation:** Get an overall SEO score for any website.
-- **Keyword Analysis:** Identify the most important keywords and their usage.
-- **Backlink Check:** Analyze the number and quality of backlinks.
-- **Page Speed Insights:** Measure and analyze page load times.
-- **Mobile Optimization:** Check the mobile-friendliness of the website.
-- **Meta Tags Analysis:** Review and evaluate meta titles and descriptions.
-- **Header Tags Review:** Analyze the use of header tags (H1, H2, H3, etc.).
-- **Image Analysis:** Check for image alt attributes and file sizes.
-- **Content Analysis:** Evaluate the quality and length of content.
-- **Technical SEO Audit:** Check for technical SEO issues like broken links, sitemap presence, robots.txt, etc.
+- **Keywords Analysis:** 
+- **Bigrams Analysis:**
+- **Good Things:** This will cover good things about the website.
+- **Bad Things:** This will cover bad things about the website.
 
 ## LinkedIn Post
 
