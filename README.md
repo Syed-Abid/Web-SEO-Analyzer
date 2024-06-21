@@ -68,7 +68,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=nBQGcda9la0">
-    <img src="" alt="Demonstration Video">
+    <img src="https://images.ctfassets.net/dfcvkz6j859j/21hlm48z8aSpYVwvAxOcY/c55678def3d6856498c88c9b1ed3f05f/step-by-step-performing-seo-analysis.png" alt="Demonstration Video">
   </a>
 </p>
 
