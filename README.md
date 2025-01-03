@@ -10,7 +10,7 @@
 
 ## Features
 
-- **Keywords Analysis:** 
+- **Keywords Analysis:** It will capture the most common keywords in the website.
 - **Bigrams Analysis:**
 - **Good Things:** This will cover good things about the website.
 - **Bad Things:** This will cover bad things about the website.
